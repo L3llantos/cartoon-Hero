@@ -17,6 +17,8 @@ header{
 h1,h2{
 	font-family: 'Comic Neue', cursive;
 }
+/*header styles*/
+
 header h1{
 	color: teal;
 	font-size: 50px;
@@ -27,7 +29,7 @@ header img{
 	width: 300px;
 	border: 10px solid teal;
 }
-
+/*main styles*/
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -50,7 +52,7 @@ a:hover{
 	background-color: white;
 }
 
-
+/*footer styles*/
 footer{
 	text-align: center;
 	background-color: #e5eb34;
